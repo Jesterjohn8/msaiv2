@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MSAiV3"
+        tools:targetApi="31">
+        <activity
+            android:name=".Math7_Quiz_Q1"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter4.W8"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter4.W7"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter4.W6"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter4.W5"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter4.W4"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter4.W3"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter4.W2"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter4.W1"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter3.W7"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter3.W6"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter3.W5"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter3.W4"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter3.W3"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter3.W2"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter3.W1"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter2.W8"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter2.W7"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter2.W6"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter2.W5"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter2.W4"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter2.W3"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter2.W2"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter2.W1"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter1.W9"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter1.W8"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter1.W7"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter1.W6"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter4.W6"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter4.W5"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter4.W4"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter4.W3"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter4.W2"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter4.W1"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter3.W7"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter3.W6"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter3.W5"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter3.W4"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter3.W3"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter3.W2"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter3.W1"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter2.W8"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter2.W7"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter2.W6"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter2.W5"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter2.W4"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter2.W3"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter2.W2"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter2.W1"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter1.W9"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter1.W8"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter1.W7"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter1.W6"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter1.W5"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter1.W4"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter1.W3"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter1.W2"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math10_quarter1.W1"
+            android:exported="false" />
+        <activity
+            android:name=".Math10_Q4"
+            android:exported="false" />
+        <activity
+            android:name=".Math10_Q3"
+            android:exported="false" />
+        <activity
+            android:name=".Math10_Q2"
+            android:exported="false" />
+        <activity
+            android:name=".Math10_Q1"
+            android:exported="false" />
+        <activity
+            android:name=".Math8_q4"
+            android:exported="false" />
+        <activity
+            android:name=".Math8_q3"
+            android:exported="false" />
+        <activity
+            android:name=".Math8_q2"
+            android:exported="false" />
+        <activity
+            android:name=".Math8_q1"
+            android:exported="false" />
+        <activity
+            android:name=".Math9_Q2"
+            android:exported="false" />
+        <activity
+            android:name=".Math9_Q4"
+            android:exported="false" />
+        <activity
+            android:name=".Math9_Q3"
+            android:exported="false" />
+        <activity
+            android:name=".Math9_Q1"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math9_quarter1.W9"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math9_quarter1.W8"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math9_quarter1.W7"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math9_quarter1.W6"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math9_quarter1.W5"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math9_quarter1.W4"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math9_quarter1.W3"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math9_quarter1.W2"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math9_quarter1.W1"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter1.W5"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter1.W4"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter1.W3"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter1.W2"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math8_quarter1.W1"
+            android:exported="false" />
+        <activity
+            android:name=".MathQ4"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter4.W7"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter4.W6"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter4.W5"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter4.W4"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter4.W3"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter4.W2"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter4.W1"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter3.W8"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter3.W7"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter3.W6"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter3.W5"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter3.W4"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter3.W3"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter3.W2"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter3.W1"
+            android:exported="false" />
+        <activity
+            android:name=".MathQ3"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter3"
+            android:exported="false" />
+        <activity
+            android:name=".MathQ2"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter2.W8"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter2.W7"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter2.W6"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter2.W5"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter2.W4"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter2.W3"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter2.W2"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter2.W1"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter1.W9"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter1.W8"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter1.W7"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter1.W6"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter1.W5"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter1.W4"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter1.W3"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter1.W2"
+            android:exported="false" />
+        <activity
+            android:name=".ui.math_quarter1.W1"
+            android:exported="false" />
+        <activity
+            android:name=".MathQ1"
+            android:exported="false" />
+        <activity
+            android:name=".M_Grade_10"
+            android:exported="false" />
+        <activity
+            android:name=".M_Grade_9"
+            android:exported="false" />
+        <activity
+            android:name=".M_Grade_8"
+            android:exported="false" />
+        <activity
+            android:name=".M_Grade_7"
+            android:exported="false" />
+        <activity
+            android:name=".Science"
+            android:exported="false" />
+        <activity
+            android:name=".Mathematics"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.MSAiV3.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
